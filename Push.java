@@ -6,5 +6,7 @@ public class Push {
             System.out.println("Hello Me");
 
         }else System.out.println("Nothing");
+
+        System.out.println("Hello"+num2);
     }
 }
